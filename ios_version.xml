@@ -3,6 +3,14 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
+            <title>Version 2.1.5</title>
+            <description>결제 수단 선택에서 잘못된 애니메이션 연출 수정</description>
+            <pubDate>Tue, 9 Apr 2024 09:23:00 +0000</pubDate>
+            <enclosure
+                url="https://apps.apple.com/kr/app/%EC%98%A4%EB%8D%94%ED%95%98%EC%9A%B0/id1644017180?l=en-GB"
+                sparkle:version="2.1.3" sparkle:os="iOS" />
+        </item>
+        <item>
             <title>Version 2.1.4</title>
             <description>면세, 과세 적용 및 결제 미처리 버그 수정</description>
             <pubDate>Mon, 8 Apr 2024 17:58:00 +0000</pubDate>
