@@ -3,6 +3,14 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
+            <title>Version 2.1.7</title>
+            <description>방문수령 수령 날짜 기능 추가</description>
+            <pubDate>Mon, 22 Apr 2024 11:47:00 +0000</pubDate>
+            <enclosure
+                url="https://play.google.com/store/apps/details?id=com.mealion.mealion.manager"
+                sparkle:version="2.1.7" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 2.1.6</title>
             <description>가상계좌 기능 추가</description>
             <pubDate>Tue, 16 Apr 2024 17:25:00 +0000</pubDate>
