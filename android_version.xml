@@ -3,6 +3,17 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
+            <title>Version 2.3.0</title>
+            <description>
+                1. 주문 프로세스 변경
+                2. 디자인 변경
+            </description>
+            <pubDate>Wed, 5 June 2024 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://play.google.com/store/apps/details?id=com.mealion.mealion.manager"
+                sparkle:version="2.1.9" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 2.2.0</title>
             <description>서버와의 모델 타입 미스매치로 인한 모델 파라미터 삭제
                 2. 워딩 변경(방문수령 => 순차배송)
