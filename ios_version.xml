@@ -3,6 +3,20 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
+            <title>Version 2.3.0</title>
+            <description>
+                1. 주문 프로세스 변경
+                2. 디자인 변경
+            </description>
+            <pubDate>Wed, 5 June 2024 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate sparkle:version="2.3.0"></sparkle:criticalUpdate>
+            </sparkle:tags>
+            <enclosure
+                url="https://apps.apple.com/kr/app/%EC%98%A4%EB%8D%94%ED%95%98%EC%9A%B0/id1644017180?l=en-GB"
+                sparkle:version="2.3.0" sparkle:os="iOS" />
+        </item>
+        <item>
             <title>Version 2.2.0</title>
             <description>서버와의 모델 타입 미스매치로 인한 모델 파라미터 삭제
                 2. 워딩 변경(방문수령 => 순차배송)
