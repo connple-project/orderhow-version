@@ -8,6 +8,7 @@
                 1. 주문 프로세스 변경
                 2. 디자인 변경
             </description>
+            <sparkle:version>2.3.0</sparkle:version>
             <pubDate>Wed, 5 June 2024 12:00:00 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate sparkle:version="2.2.9"></sparkle:criticalUpdate>
