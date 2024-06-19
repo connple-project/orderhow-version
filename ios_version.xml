@@ -3,6 +3,25 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
+            <title>Version 2.3.1</title>
+            <description>
+                1. 전단 및 특가 기능이 추가되었어요
+                2. 앱 다운로드 링크를 복사할 수 있는 배너를 추가했어요
+                3. 주문 확인 페이지 레이아웃을 변경했어요
+                4. 홈의 파트너(상점) 컴포넌트 레이아웃이 변경되었어요
+                5. 내부적으로 모델 변경 및 기능 수정을 진행했어요
+            </description>
+            <sparkle:version>2.3.1</sparkle:version>
+            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <pubDate>Wed, 19 June 2024 12:00:00 +0000</pubDate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate sparkle:version="2.3.0" />
+            </sparkle:tags>
+            <enclosure
+                url="https://apps.apple.com/kr/app/%EC%98%A4%EB%8D%94%ED%95%98%EC%9A%B0/id1644017180?l=en-GB"
+                sparkle:version="2.3.1" sparkle:os="iOS" />
+        </item>
+        <item>
             <title>Version 2.3.0</title>
             <description>
                 1. 주문 프로세스 변경
